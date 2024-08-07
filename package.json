@@ -1,0 +1,27 @@
+{
+  "name": "react-native-rsa-oaep",
+  "version": "2.0.5",
+  "description": "A native implementation of RSA key generation and encryption/decryption with OAEP.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "rsa",
+    "oaep"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SlipperyyIce/react-native-rsa-oaep.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SlipperyyIce/react-native-rsa-oaep/issues"
+  },
+  "author": {
+    "name": "Daniel B"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/SlipperyyIce/react-native-rsa-oaep#readme"
+}
