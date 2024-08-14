@@ -1,6 +1,6 @@
 {
   "name": "react-native-rsa-oaep",
-  "version": "2.0.5",
+  "version": "2.0.7",
   "description": "A native implementation of RSA key generation and encryption/decryption with OAEP.",
   "main": "index.js",
   "types": "index.d.ts",
